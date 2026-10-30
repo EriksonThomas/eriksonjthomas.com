@@ -1,0 +1,12 @@
+{
+  "name": "eriksonjthomas-personal-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Erikson Thomas — IT specialist, software developer, and maker.",
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "check": "node scripts/check.mjs"
+  },
+  "engines": { "node": ">=20" }
+}
